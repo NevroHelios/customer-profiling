@@ -1,0 +1,12 @@
+### Final summary
+
+- lower education (2n Cycle) == lower pay
+- Age doesn't matter
+-   those who `responded` have higher `Income`, `MntWines`, `MntFruits`, `MntMeatProducts`, `MntFishProducts`, `MntSweetProducts`, `MntGoldProds`, `AcceptedCmp1`, `AcceptedCmp2`, `AcceptedCmp3`, `AcceptedCmp4`, `AcceptedCmp5`, `Response`
+-   family_size of 6 shows a limited purchase upto `~25` regardless their `income`
+-   family of 2 makes high number of purchases if their income is greater that the average `40k - 80k`
+-   family of 5 & 4 is a bit volatile
+-   family of 3 shows a steady growth b/w `5-`
+-   `married` people buys the most followed by `> single > divorced`
+-   web purchase is most volatile
+-   married people buys catalog and deals way more than others
