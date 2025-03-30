@@ -9,13 +9,14 @@ import time
 st.set_page_config(page_icon=":shark:", page_title="Customer Prodiling", layout='wide')
 
 with st.sidebar:
-    st.write("## Menu")
-    st.write("### Data Analysis")
-    st.write("1. [Customer Demographics](#customer-demographics-purchase-behavior)")
-    st.write("2. [Purchase Behavior](#purchase-behavior-analysis)")
-    st.write("3. [Campaign Response](#campaign-response-analysis)")
-    st.write("### Data")
-    st.write("4. [Data](#data-head)")
+    st.write("## 📋 Menu")
+    st.write("### 📊 Data Analysis")
+    st.write("1. 👥 [Customer Demographics](#customer-demographics-purchase-behavior)")
+    st.write("2. 🛒 [Purchase Behavior](#purchase-behavior-analysis)")
+    st.write("3. 🚀 [Campaign Response](#campaign-response-analysis)")
+    st.write("### 📁 Data")
+    st.write("4. 📑 [Data](#data-head)")
+
 
 # load data
 @st.cache_data
