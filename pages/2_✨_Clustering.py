@@ -6,16 +6,16 @@ with st.sidebar:
     st.markdown("## 🧭 Navigation")
     
     st.markdown("### 📊 K-Means Clustering")
-    st.markdown("- [1.1 📈 Determining Optimal K using Elbow Method](#1-1-determining-optimal-k-using-elbow-method)")
-    st.markdown("- [1.2 🔍 Validating with Silhouette Score](#1-2-validating-with-silhouette-score)")
-    st.markdown("- [1.3 👥 Cluster Profiles](#1-3-cluster-profiles)")
-    st.markdown("- [1.4 📈 Response Rate by Cluster](#1-4-response-rate-by-cluster)")
+    st.markdown("- 1.1 [📈 Determining Optimal K using Elbow Method](#1-1-determining-optimal-k-using-elbow-method)")
+    st.markdown("- 1.2 [🔍 Validating with Silhouette Score](#1-2-validating-with-silhouette-score)")
+    st.markdown("- 1.3 [👥 Cluster Profiles](#1-3-cluster-profiles)")
+    st.markdown("- 1.4 [📈 Response Rate by Cluster](#1-4-response-rate-by-cluster)")
     
     st.markdown("---")  
     
     st.markdown("### 🧩 DBSCAN Clustering")
-    st.markdown("- [2.1 ⚙️ Determining Optimal Epsilon](#2-1-determining-optimal-epsilon)")
-    st.markdown("- [2.2 📑 DBSCAN Results](#2-2-dbscan-results)")
+    st.markdown("- 2.1 [⚙️ Determining Optimal Epsilon](#2-1-determining-optimal-epsilon)")
+    st.markdown("- 2.2 [📑 DBSCAN Results](#2-2-dbscan-results)")
 
 
 
